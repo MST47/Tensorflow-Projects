@@ -1,10 +1,15 @@
 # Tensorflow-Projects
-In this repository we will walk through 4 fundemental machine learning algorithms. We will apply each of these algorithms to unique problems and datasets before highlighting the use cases of each.
+## Overview
+This repository provides scripts and tools to build and train ML models. We will walk through 4 fundamental machine learning algorithms. We will apply each of these algorithms to unique problems and datasets before highlighting their use cases.
 
-The algorithms we will focus on include:\\
+The algorithms we will focus on include:
 
-i.   Linear Regression
-ii.  Classification
-iii. Clustering
-iv.  Hidden Markov Models
-It is worth noting that there are many tools within TensorFlow that could be used to solve the problems we will see below. I have chosen the tools that I belive give the most variety and are easiest to use.
+i.   Linear Regression  <br />
+ii.  Classification      <br />
+iii. Clustering   <br />
+iv.  Hidden Markov Models  <br />
+It is worth noting that many tools within TensorFlow could be used to solve the problems we will see below. I have chosen the tools that I belive give the most variety and are easiest to use.
+
+
+### Features
+**Automated Scripts**: Easily automate the use of multiple NLP models. <br />
