@@ -3,8 +3,8 @@ In this repository we will walk through 4 fundemental machine learning algorithm
 
 The algorithms we will focus on include:\\
 
-Linear Regression
-Classification
-Clustering
-Hidden Markov Models
+i.   Linear Regression
+ii.  Classification
+iii. Clustering
+iv.  Hidden Markov Models
 It is worth noting that there are many tools within TensorFlow that could be used to solve the problems we will see below. I have chosen the tools that I belive give the most variety and are easiest to use.
