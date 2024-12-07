@@ -1,7 +1,7 @@
 # Tensorflow-Projects
 In this repository we will walk through 4 fundemental machine learning algorithms. We will apply each of these algorithms to unique problems and datasets before highlighting the use cases of each.
 
-The algorithms we will focus on include:
+The algorithms we will focus on include:\\
 
 Linear Regression
 Classification
